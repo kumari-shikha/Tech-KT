@@ -14,7 +14,7 @@ const initState = {
 
         {
             type: "eggless",
-            flavor: "choclate",
+            flavor: "chocolate",
             count: 4
         },
         {
